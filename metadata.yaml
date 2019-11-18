@@ -1,5 +1,5 @@
 _repo: The-Natural-History-of-Pliny-Volume-5-of-6_60688
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Riley, H.T.
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '49421'
     url: http://www.gutenberg.org/2009/agents/49421
     wikipedia: https://en.wikipedia.org/wiki/John_Bostock_(physician)
+covers:
+- cover_type: archival
+  image_path: 60688-h/images/cover.jpg
 creator:
   author:
     agent_name: Pliny, the Younger
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1036
     wikipedia: http://en.wikipedia.org/wiki/Pliny_the_Younger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60688#The-Natural-History-of-Pliny-Volume-5-of-6
 gutenberg_issued: '2019-11-14'
 gutenberg_type: Text
 identifiers:
